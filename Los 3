@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Los Tres</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <h1>Porque los tres son la mejor banda de chile</h1>
+    <p>🎸</p>
+    <li>Como pudieron, un contrabajista de conservatorio, Roberto Lindl. El guitarrista, Angel Parra, es el mejor guitarrista chileno. Francisco Molina, baterista de jazz. y por ultimo el vocalista/guitarrista, Alvaro Henriquez, de los mejores letristas chilenos por sus poeticas letras, impactar en la musica latinoamericana en la decada de los 90' </li>
+             <ul>
+                <li>La banda oriunda de concepción, fundada el 1987, a sonado en todo Chile, con sus temas mas conocidos como: He barrido el sol, La torre de babel, Un amor violento y más, esta banda tiene toques de jazz (por parte de Parra, Molina y Lindl), toques de rockabilly (gracias a Lindl y Henriquez) o tambien blues. </li>
+                   <li>Parra, Molina, Lindl, Henriquez (De izquierda a derecha)</li>
+             </ul>
+    <img src="https://www.futuro.cl/wp-content/uploads/2023/10/los-tres-1991-bn-01-web-jpg.webp" alt="Image 1">
+</body>
+</html>
+ 
+<h3>Origenes</h3>
+<li>Todo empezo cuando Pancho Molina, Alvaro Henriquez y Roberto "Titae" Lindl empezaron como una banda de rockabilly, el nombre que tenian como trio era "Los ilegales", de hecho en la decada de los 80´, compartieron escenario con "Los prisioneros" en un pequeño recital en la region de Concepción, en la que se pelearon por decisiones creativas </li>
+
+<h4>La transición a los 90´</h4>
+<li>Por el 1988, Angel Parra conoce a Alvaro despues de una obra teatral chilena llamada "La negra Ester", ya que esta obra fue presentada en concepción, y Angel era parte de los musicos de la obra, de hecho el creador de la banda sonora fue su tío abuelo, Roberto Parra Sandoval. Alavaro, sorpendido por las habilidades de Angel en la guitarra decide integrarlo a la banda, solamente que ahora no se llaman "Los Ilegales" ahora son "Los Tres" </li>
